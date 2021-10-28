@@ -1,0 +1,19 @@
+{
+  "name": "dc_bot",
+  "version": "1.0.0",
+  "description": "Self Made Bot By ItzMeDaan#1049",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "ItzMeDaan#1049",
+    "SelfMade"
+  ],
+  "author": "ItzMeDaan#1049",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
